@@ -28,9 +28,8 @@ Ao clicar em `=`:
 
 ## ⚠️ Observações
 
-- O uso de `eval()` facilita a implementação, mas não é recomendado para aplicações reais por questões de segurança.
-- O projeto ainda pode ser melhorado com:
-  - tratamento de erros mais robusto
+- O projeto ainda tem alguns erros para ajustar e melhorar algumas coisas, como:
+  - se eu colocar dois '+', o código não consegue fazer o cálculo e devolve erro. (ex: 2++) = Error
   - organização em classes (orientação a objetos)
   - suporte a mais operações
 
