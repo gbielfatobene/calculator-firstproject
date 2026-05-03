@@ -38,11 +38,3 @@ Ao clicar em `=`:
 
 - Python
 - Tkinter
-
-## ▶️ Como executar
-
-1. Certifique-se de ter o Python instalado
-2. Execute o arquivo:
-
-```bash
-python nome_do_arquivo.py
